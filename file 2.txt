@@ -1,4 +1,6 @@
+
 hello my name is aman chuphal .
 this is just for demo 
 i am checking merge conflicts.
-i just hope it goes well....
+i just hope git well...
+lets see what happens next.

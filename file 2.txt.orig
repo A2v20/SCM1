@@ -1,0 +1,10 @@
+<<<<<<< HEAD
+hello my name is aman chuphal .
+this is just for demo 
+i am checking merge conflicts.
+i just hope it goes well....
+=======
+this is file two . this is just for show .....
+this file is inside branch 1
+lets see what happens next.
+>>>>>>> branch1
